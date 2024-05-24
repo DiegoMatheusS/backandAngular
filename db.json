@@ -1,0 +1,16 @@
+{
+  "produtos": [
+    {
+      "name": "Curso de Vingador",
+      "validade": "2505-07-14",
+      "precoProduto": 999,
+      "id": 2
+    },
+    {
+      "name": "Curso de Agiota",
+      "validade": "9999-09-09",
+      "precoProduto": 500,
+      "id": 3
+    }
+  ]
+}
